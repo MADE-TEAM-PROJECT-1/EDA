@@ -1,0 +1,5 @@
+*.json
+.ipynb_checkpoints
+author_to_articles_id.pickle
+article_to_authors_id.pickle
+articles_tts.json
